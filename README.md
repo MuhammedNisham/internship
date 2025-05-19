@@ -34,8 +34,7 @@ List the technologies your specific HRM solution utilizes, for example:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/hrm-software.git
-   cd hrm-software
+   github.com/MuhammedNisham/internship
    ```
 
 2. **Set Up the Environment**
