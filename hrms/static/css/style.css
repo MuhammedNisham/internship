@@ -1,0 +1,29 @@
+  *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+body{
+    header{
+        width: 100%;
+        nav.navbar{
+            width: 100;
+            h3{
+                margin-left: 40%;
+            }
+            ul{
+                margin-left: 70%;
+            }
+            a{
+                svg{
+                    height: 30px;
+                    width: 30px;
+                }
+            }
+        }
+    }
+    main{
+      
+    }
+}
